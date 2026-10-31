@@ -4,7 +4,7 @@ import imgArtemisProject from "./imgProjects/artemisProject.png";
 import imgFlowBill from "./imgProjects/FlowBill.png";
 import imgLumeDashboard from "./imgProjects/lumeDashboard.png";
 import imgSkyCast from "./imgProjects/SkyCast.png";
-import imgSynoire from "./imgProjects/synoire.png";
+import imgSynoire from "./imgProjects/Synoire.png";
 
 export type StackTag =
   | "React"
